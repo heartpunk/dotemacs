@@ -52,3 +52,6 @@
 (evil-mode 1)
 ;; end evil
 
+;; cider mode hax
+(add-to-list 'exec-path "/usr/local/bin")
+;; end cider mode hax
